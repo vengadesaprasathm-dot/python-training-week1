@@ -1,0 +1,11 @@
+Order_ID,Customer,Age,City,Sales,Order_Date,Category
+1, Rahul,25,Chennai,1500,2025-01-01,Electronics
+2,Priya,30,chennai,2000,2025-01-02,Fashion
+3,Arun,,Bangalore,1800,2025-01-03,Electronics
+4,Meena,28,Chennai,,2025-01-04,Fashion
+5,Ravi,35,Hyderabad,2500,2025-01-05,Grocery
+6,Anu,30,bangalore,3000,2025-01-06,Fashion
+7,Kumar,40,Chennai,5000,2025-01-07,Electronics
+8,Sara,,Hyderabad,2200,2025-01-08,Grocery
+9,John,32,Chennai,1800,2025-01-09,Fashion
+10,Priya,30,chennai,2000,2025-01-02,Fashion
