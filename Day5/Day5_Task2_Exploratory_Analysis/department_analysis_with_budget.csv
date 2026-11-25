@@ -1,0 +1,5 @@
+Department,Employee_Count,Average_Age,Average_Monthly_Income,Average_Job_Satisfaction,Attrition_Count,Annual_Budget,Budget_Per_Employee
+Finance,7,33.29,51000.0,4.0,1,1800000,257142.86
+HR,6,34.0,44833.33,3.67,1,1200000,200000.0
+IT,8,36.5,61500.0,2.88,4,3000000,375000.0
+Sales,9,31.11,38333.33,3.44,2,1500000,166666.67
