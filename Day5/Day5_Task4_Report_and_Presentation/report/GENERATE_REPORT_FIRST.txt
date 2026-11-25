@@ -1,0 +1,2 @@
+Run generate_findings.py from the repository root to create Findings_Summary.md using your actual Task 2 CSV.
+Export the Task 3 notebook to HTML using the command in README.md.
